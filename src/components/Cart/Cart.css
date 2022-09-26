@@ -1,4 +1,6 @@
 .Cart-container {
+    position: sticky;
+    top: 0;
     margin-left: 20px;
     font-family: 'Lato';
     font-style: normal;
